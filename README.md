@@ -1,4 +1,4 @@
-# T-Shirt Pricing Analytics Project
+# T-Shirt Sales Analytics Project
 This project analyzes T-shirt brand pricing data using Azure SQL Database, Microsoft SQL Server, and Power BI.
 
 ## 🔗 Tools & Technologies
